@@ -1,2 +1,4 @@
 # ExpertSystemProject
-This is my final project for Expert System class with my friends Created using Java 8, with Eclipse Neon 2 with JESS 71p2 enviro. i'm the one who made it, so just gonna drop here in case i need to recall in the future. Feel free to use the code, the project case and libraries included. I'm passed the class (and get an A anyways). 
+This is my final project for Expert System class with my friend. We agreed to share the projects, so just gonna drop here in case i need to recall the project in the future. Feel free to use the code, the project case and libraries included. This project is for Expert System class from Binus University.
+How to run the project:
+- Download Eclipse
